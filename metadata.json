@@ -1,0 +1,7 @@
+{
+  "name": "辨識照片中的物種",
+  "description": "一個智慧型 AI 聊天機器人，專門使用 Gemini API 辨識照片中的植物和動物物種。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
